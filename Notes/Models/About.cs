@@ -10,6 +10,9 @@ internal class About
 {
     public string Title => AppInfo.Name;
     public string Version => AppInfo.VersionString;
-    public string MoreInfoUrl => "https://aka.ms/maui";
-    public string Message => "This app is written in XAML and C# with .NET MAUI.";
+    public string MoreInfoUrl => "https://github.com/Romsesito";
+    public string Message => "-Jordan Alejandro ";
+
+    public string MessageD => "Soy una persona alegre, creativa y me gusta llevarme bien con la gente :D";
+
 }
